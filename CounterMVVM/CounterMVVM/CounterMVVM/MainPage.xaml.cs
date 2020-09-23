@@ -12,6 +12,7 @@ namespace CounterMVVM
     {
         public MainPage()
         {
+            BindingContext = new CounterViewModel();
             InitializeComponent();
         }
     }

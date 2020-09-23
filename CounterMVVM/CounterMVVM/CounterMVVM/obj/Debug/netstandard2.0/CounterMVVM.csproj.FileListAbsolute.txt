@@ -1,0 +1,14 @@
+C:\Users\ekral\Source\Repos\AP3AF\CounterMVVM\CounterMVVM\CounterMVVM\bin\Debug\netstandard2.0\CounterMVVM.deps.json
+C:\Users\ekral\Source\Repos\AP3AF\CounterMVVM\CounterMVVM\CounterMVVM\bin\Debug\netstandard2.0\CounterMVVM.dll
+C:\Users\ekral\Source\Repos\AP3AF\CounterMVVM\CounterMVVM\CounterMVVM\bin\Debug\netstandard2.0\ref\CounterMVVM.dll
+C:\Users\ekral\Source\Repos\AP3AF\CounterMVVM\CounterMVVM\CounterMVVM\bin\Debug\netstandard2.0\CounterMVVM.pdb
+C:\Users\ekral\Source\Repos\AP3AF\CounterMVVM\CounterMVVM\CounterMVVM\obj\Debug\netstandard2.0\CounterMVVM.csprojAssemblyReference.cache
+C:\Users\ekral\Source\Repos\AP3AF\CounterMVVM\CounterMVVM\CounterMVVM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ekral\Source\Repos\AP3AF\CounterMVVM\CounterMVVM\CounterMVVM\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ekral\Source\Repos\AP3AF\CounterMVVM\CounterMVVM\CounterMVVM\obj\Debug\netstandard2.0\CounterMVVM.AssemblyInfoInputs.cache
+C:\Users\ekral\Source\Repos\AP3AF\CounterMVVM\CounterMVVM\CounterMVVM\obj\Debug\netstandard2.0\CounterMVVM.AssemblyInfo.cs
+C:\Users\ekral\Source\Repos\AP3AF\CounterMVVM\CounterMVVM\CounterMVVM\obj\Debug\netstandard2.0\CounterMVVM.csproj.CoreCompileInputs.cache
+C:\Users\ekral\Source\Repos\AP3AF\CounterMVVM\CounterMVVM\CounterMVVM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ekral\Source\Repos\AP3AF\CounterMVVM\CounterMVVM\CounterMVVM\obj\Debug\netstandard2.0\CounterMVVM.dll
+C:\Users\ekral\Source\Repos\AP3AF\CounterMVVM\CounterMVVM\CounterMVVM\obj\Debug\netstandard2.0\ref\CounterMVVM.dll
+C:\Users\ekral\Source\Repos\AP3AF\CounterMVVM\CounterMVVM\CounterMVVM\obj\Debug\netstandard2.0\CounterMVVM.pdb
