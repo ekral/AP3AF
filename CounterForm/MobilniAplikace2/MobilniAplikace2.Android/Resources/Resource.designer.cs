@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("CounterMVVM.Droid.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("MobilniAplikace2.Droid.Resource", IsApplication=true)]
 
-namespace CounterMVVM.Droid
+namespace MobilniAplikace2.Droid
 {
 	
 	
