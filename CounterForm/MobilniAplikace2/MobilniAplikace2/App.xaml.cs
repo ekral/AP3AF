@@ -2,7 +2,7 @@
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace MobilniAplikace2
+namespace CounterForm
 {
     public partial class App : Application
     {

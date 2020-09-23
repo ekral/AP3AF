@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
-namespace MobilniAplikace2
+namespace CounterForm
 {
     public partial class MainPage : ContentPage
     {
